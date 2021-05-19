@@ -1,0 +1,39 @@
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+<title>
+My HomeWork
+
+</title>
+
+<body style="background-color:orange;">
+</body>
+
+<a href="https://www.facebook.com/profile.php?id=100017454371398" target="_blank" >My Facebook Page</a>
+<br><br><br>
+
+<H1 class="h1">Bolotinsky Anton </H1>
+
+<img src="profile.jpg" alt="Anton" class="center">
+<Br>
+<h2>
+33 Years old, Ashdod City<br>
+Basketball Fan<br>
+Love to read books<br>
+Relashionship with Netflix
+	</h2>
+	
+<br>
+
+
+<hr>
+<br>
+<p>
+<a href="gallery.html" target="_blank">Gallery</a>
+<a href="gallery.html" target="_blank">Contact US</a>
+
+</p>
+</body>
+</head>
+
+</html>

@@ -1,0 +1,23 @@
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+img:hover {
+  box-shadow: 0 0 10px 1px rgba(100, 140, 186, 20.5);
+}
+
+`
+.te {  
+	color: yellow;
+	font-size: 50px;
+	text-align: center;
+
+
+}
